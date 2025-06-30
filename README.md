@@ -1,6 +1,6 @@
-# audioviz
+# preaudio
 
-`audioviz` is a simple Python library for audio loading, trimming, and visualization built on top of `librosa`, `matplotlib`, and `seaborn`.
+`preaudio` is a simple Python library for audio loading, trimming, and visualization built on top of `librosa`, `matplotlib`, and `seaborn`.
 
 ## Features
 
